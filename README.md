@@ -5,7 +5,9 @@
 ![Mutator Screenshot](media/Mutator_Screenshot.png)
 
 * A block diagram of the device is shown below:
+
 ![Mutator Diagram](media/Mutator_Diagram.jpg)
+
 * The effects and sequencer are implemented in the **gen~** environment.
 
 ## Table of Contents
