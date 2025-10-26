@@ -15,6 +15,7 @@
 * [Features](#features)
 * [Minimum Requirements](#minimum-requirements)
 * [Usage](#usage)
+* [References](#references)
 * [Contact](#contact)
 
 ## Features
@@ -53,8 +54,14 @@
 * Adjust the effect parameters and sequencer settings to your liking.
 * Play audio through the track to hear the effects in action.
 
+## References
+
+* Moorer, J.A. (1979). About This Reverberation Business. Computer Music Journal, 3(2), 13–28. https://doi.org/10.2307/3680280
+* Reiss, J.D., & McPherson, A. (2014). Audio Effects: Theory, Implementation and Application (1st ed.). CRC Press. https://doi.org/10.1201/b17593
+* Schroeder, M.R. (1962). Natural Sounding Artificial Reverberation. Journal of The Audio Engineering Society, 10, 219-223.
+
 ## Contact
 
-© Noella Wang aka nonocut 2025
+© 2025 Noella Wang
 
 [Drop a line](https://nonocut.com/contact/)
